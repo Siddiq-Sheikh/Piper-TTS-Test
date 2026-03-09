@@ -35,7 +35,7 @@ pip install numpy sounddevice
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/piper-local-tts.git
+   git clone https://github.com/your-username/Piper-TTS-Test.git
    cd piper-local-tts
    ```
 
@@ -46,7 +46,7 @@ pip install numpy sounddevice
 
 3. **Run the script**
    ```bash
-   python tts.py
+   python tts_old.py
    ```
 
 On first run, the script will automatically:
